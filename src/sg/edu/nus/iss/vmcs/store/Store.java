@@ -14,6 +14,7 @@ package sg.edu.nus.iss.vmcs.store;
  * @version 3.0 5/07/2003
  * @author Olivo Miotto, Pang Ping Li
  */
+//Test
 
 public abstract class Store {
     public final static int CASH  = 1;
